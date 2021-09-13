@@ -1,3 +1,0 @@
-/home/rbn/Projects/katas/upperCase/build/CMakeFiles/rebuild_cache.dir
-/home/rbn/Projects/katas/upperCase/build/CMakeFiles/edit_cache.dir
-/home/rbn/Projects/katas/upperCase/build/CMakeFiles/UpperCase.dir
